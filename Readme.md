@@ -1454,10 +1454,10 @@ While Vision Transformers have made significant advancements in computer vision,
 
 ---
 
-<br><br>
+<!-- <br><br> -->
 
 
-<center>
+<!-- <center>
 
 ## **Vision Transformer Attention Map Visualisation.**
 
@@ -1509,7 +1509,7 @@ While Vision Transformers have made significant advancements in computer vision,
 
 </center>
 
-<br><br>
+<br><br> -->
 
 
 # **Research Question 2 and Model Interpretability.**
