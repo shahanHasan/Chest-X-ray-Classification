@@ -1,6 +1,6 @@
 <center>
 
-# **Title : Application of Convolutional Vision Transformers for the Classification of Infectious Diseases in Chest Radiological images.**
+# **Application of Convolutional Vision Transformers for the Classification of Infectious Diseases in Chest Radiological images.**
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
